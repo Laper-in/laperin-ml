@@ -15,6 +15,7 @@ A recipe recommendation system API is a dynamic tool that leverages algorithms a
 MobileNetV2 is a pre-trained convolutional neural network architecture designed for efficient and high-performance image classification tasks. It's an improvement over its predecessor, MobileNetV1, optimized for mobile and embedded vision applications. MobileNetV2 introduces inverted residuals and linear bottlenecks, resulting in faster inference speed, lower latency, and improved accuracy compared to the earlier version. Its architecture employs a lightweight depthwise separable convolution, reducing computational complexity while maintaining impressive accuracy on various image recognition tasks. This pre-trained model is widely used as a feature extractor or a base for transfer learning in applications demanding real-time image analysis, such as object recognition in mobile devices, due to its balance between efficiency and accuracy.
 
 ![image](https://github.com/Laper-in/Machine-Learning/assets/87410187/96bd1332-1897-4a8d-923e-1058ba7aef51)
+![image](https://github.com/Laper-in/Machine-Learning/assets/87410187/ed9c26ef-5278-45b2-8353-911bb257b782)
 
 
 
