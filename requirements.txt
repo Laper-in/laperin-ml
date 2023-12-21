@@ -1,6 +1,15 @@
+Proyek ini diuji dan dikembangkan pada Windows 10.
+
 mysql-connector-python==8.2.0
 nltk==3.8.1
 PySastrawi==1.2.0
 scikit_learn==1.3.2
 shortuuid==1.0.11
 fastapi[all]
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.24.3
+matplotlib==3.8.2
+seaborn=0.11.2
+cv2==4.8.1
+
